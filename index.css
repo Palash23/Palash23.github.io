@@ -1,0 +1,30 @@
+#p{
+  height : 100px;
+}
+body{
+  font-family : serif , lobster;
+  color : orange;
+  background-color : black;
+
+}
+h1{
+  font-size : 75px;
+  font-style : italic;
+  text-align: center;
+}
+
+h1:hover{color : red;}
+
+h5{
+  margin-top: 2px;
+  font-size : 30px;
+  text-align: center;
+}
+.text-left{
+  font-size : 20px;
+  padding-top : 45px;
+}
+#pic{
+  
+  text-align: center;
+}
